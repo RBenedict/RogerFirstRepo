@@ -2,4 +2,4 @@ This is the first file added to the project, done via GitHub editor.
 Then I added this second line in my cloned repo at C:\RogersRepo.
 And then a third which I'll see if I can put in a branch and then merge.
 Next day, added 4th line.
-On Branch 1, added this line.
+On Branch 1, added this line. Didn't merge to master for some reason
