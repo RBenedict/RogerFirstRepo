@@ -1,1 +1,2 @@
 This is the first file added to the project, done via GitHub editor.
+Then I added this second line in my cloned repo at C:\RogersRepo.
